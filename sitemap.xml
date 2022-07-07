@@ -33,9 +33,6 @@
 		<loc>http://fundacjafurora.pl/corobimy.html</loc>
 	</url>
 	<url>
-		<loc>http://fundacjafurora.pl/aboutus.html</loc>
-	</url>
-	<url>
 		<loc>http://fundacjafurora.pl/statute.html</loc>
 	</url>
 	<url>
@@ -70,5 +67,8 @@
 	</url>
 	<url>
 		<loc>http://fundacjafurora.pl/volounteering.html</loc>
+	</url>
+	<url>
+		<loc>http://fundacjafurora.pl/page24.html</loc>
 	</url>
 </urlset>
